@@ -18,8 +18,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 2-1: _HTML & CSS - Estruturas de página_
 - [x] 2-2: _HTML & CSS - Primeiros passos em CSS_
-- [ ] 2-3: _HTML & CSS - Seletores e posicionamento_ 
-- [ ] 2-4: _HTML Semântico_ 
-- [ ] 2-5: _Projeto - Lessons Learned_ 
+- [x] 2-3: _HTML & CSS - Seletores e posicionamento_ 
+- [x] 2-4: _HTML Semântico_ 
+- [x] 2-5: _Projeto - Lessons Learned_ 
  
+##### Bloco 3: Introdução à JavaScript  
+
+- [x] 3-1: _JavaScirpt - Primeiros passos no JavaScript_
+- [x] 3-2: _JavaScirpt - Array e estrutura de repetição_
+- [x] 3-3: _JavaScript - Funções_ 
+- [ ] 3-4: _JavaScript - Objetos_
+- [ ] 3-5: _JavaScript - JSON e dia de prática_
+- [ ] 3-6: _JavaScript - Supermercado Pirilampo_
+
 [etc...]
