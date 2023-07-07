@@ -29,6 +29,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-3: _JavaScript - Funções_ 
 - [ ] 3-4: _JavaScript - Objetos_
 - [ ] 3-5: _JavaScript - JSON e dia de prática_
-- [ ] 3-6: _JavaScript - Supermercado Pirilampo_
+- [ ] 3-6: _Projeto - Supermercado Pirilampo_
 
 [etc...]
