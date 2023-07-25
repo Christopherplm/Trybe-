@@ -27,8 +27,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-1: _JavaScirpt - Primeiros passos no JavaScript_
 - [x] 3-2: _JavaScirpt - Array e estrutura de repetição_
 - [x] 3-3: _JavaScript - Funções_ 
-- [ ] 3-4: _JavaScript - Objetos_
-- [ ] 3-5: _JavaScript - JSON e dia de prática_
-- [ ] 3-6: _Projeto - Supermercado Pirilampo_
+- [x] 3-4: _JavaScript - Objetos_
+- [x] 3-5: _JavaScript - JSON e dia de prática_
+- [x] 3-6: _Projeto - Supermercado Pirilampo_
+
+##### Bloco 4: JavaScript: DOM, Eventos e Web Storage 
+- [x] 3-1: _JavaScirpt - DOM e Seletores_
+- [x] 3-2: _JavaScirpt - Trabalhando com elementos_
+- [x] 3-3: _JavaScript - Eventos_ 
+- [x] 3-4: _JavaScript - Web Storage_
+- [x] 3-5: _Projeto - Arte com Pixels_
+- [ ] 3-6: _Projeto Bônus_
+
 
 [etc...]
